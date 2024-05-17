@@ -34,3 +34,5 @@ build/
 ### MISC ###
 logs/
 target/
+*.bkp
+/Task-14-Sql_Hibernate.iml
